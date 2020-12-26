@@ -1,0 +1,19 @@
+
+.menu-icon,
+.user-img ,
+.search-icon
+{
+  height: 20px;
+}
+.search-box{
+  border-radius: 30px;
+}
+.search-bar{
+  outline: none;
+}
+a{
+  text-decoration: none;
+}
+footer{
+  color: #7e7e7e;
+}
